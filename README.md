@@ -1,4 +1,4 @@
-# Sublime Text 3 build 3176
+# Sublime Text 3 build 3176 - Versão Linux
 
 Sublime Text 3 Build 3176 + Registro 100% funcional
 
